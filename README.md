@@ -1,1 +1,2 @@
-# python-learning-jouney
+# Python-learning-jouney
+I created this repository to keep track code
